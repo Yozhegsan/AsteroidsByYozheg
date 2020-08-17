@@ -393,6 +393,7 @@ namespace AsteroidsApp1
                 PaintString(Color.Yellow, "F2 нова гра\n" 
                                         + " F10 вихід");
             }
+
             pic.Image = finalImage;
             //if (DateTime.Now.Second % 2 == 0) GC.Collect();
         }
